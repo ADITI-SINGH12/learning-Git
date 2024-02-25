@@ -1,0 +1,6 @@
+Precondition: 
+1.to check git is initailised in a folder or not - command (git status)
+2.to check git config in a system or whose git is login the system- command(git config --global user.name) ,command(git config --global user.email) 
+3. --global reponsible for checking globally in the system.
+4.If in git config already user name and email is present,to change that username and emaail - command(git config --global --unset user.name), command(git config --global --unset user.email)
+5.Now to set new user name and email = command(git config --global user.name "Aditi Singh") command(git conig --global user.email"aditisinghq10022018@gmail.com)
